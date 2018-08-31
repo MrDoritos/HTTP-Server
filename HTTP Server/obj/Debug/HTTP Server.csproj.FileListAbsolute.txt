@@ -1,0 +1,7 @@
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\bin\Debug\HTTP Server.exe.config
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\bin\Debug\HTTP Server.exe
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\bin\Debug\HTTP Server.pdb
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\obj\Debug\HTTP Server.csprojResolveAssemblyReference.cache
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\obj\Debug\HTTP Server.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\obj\Debug\HTTP Server.exe
+C:\Users\Ian\source\repos\HTTP Server\HTTP Server\obj\Debug\HTTP Server.pdb
